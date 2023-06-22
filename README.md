@@ -3,3 +3,8 @@ In this project we scraped information about sold houses/apartments and used mac
 
 
 
+Project Presentation:
+
+https://view.genial.ly/64692ccecda0ec0014453c88
+
+  
